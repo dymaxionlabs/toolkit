@@ -18,7 +18,7 @@ We love transparency and hard fact evidence, and we are committed to the United 
 
 ## Contributing
 
-Participation in the Project through interaction with our code repositories is open to anyone so long as they abide by the terms of this Charter. Bug reports and pull requests are welcome on GitHub at the issues page. This Project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
+Participation in the Project through interaction with our code repositories is open to anyone so long as they abide by the terms of this Charter. Bug reports and pull requests are welcome on GitHub at the [issues page](https://github.com/dymaxionlabs/toolkit/issues). This Project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
 All inbound code contributions to the Project must be made under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) 
 All outbound code will be made available under the Project License.
