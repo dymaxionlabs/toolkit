@@ -2,6 +2,14 @@
 
 This Charter states the project’s mission, scope, principles and contribution guidelines to help our community understand how it all fits together. 
 
+## Projects
+
+### Tools
+
+* [satproc](https://github.com/dymaxionlabs/satproc): :artificial_satellite: Python library and CLI tools for processing geospatial imagery for ML
+* [unetseg](https://github.com/dymaxionlabs/unetseg): U-Net semantic segmentation for satellite imagery
+* [nb_workflows](https://github.com/dymaxionlabs/nb_workflows): A workflow platform which allows you to run parameterized notebooks programmatically
+
 ## Mission
 
 The **Dymaxion Labs Toolkit** is a collection of open source libraries that leverage AI and Computer Vision to understand the physical world, by analyzing large scale geospatial data. The Toolkit removes the barriers to geospatial deep learning, providing easy to use tools and a standardized workflow.  
