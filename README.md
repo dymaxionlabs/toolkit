@@ -9,6 +9,7 @@ This Charter states the project’s mission, scope, principles and contribution 
 * [satproc](https://github.com/dymaxionlabs/satproc): :artificial_satellite: Python library and CLI tools for processing geospatial imagery for ML
 * [unetseg](https://github.com/dymaxionlabs/unetseg): U-Net semantic segmentation for satellite imagery
 * [nb_workflows](https://github.com/dymaxionlabs/nb_workflows): A workflow platform which allows you to run parameterized notebooks programmatically
+* [platform](https://github.com/dymaxionlabs/platform): Dymaxion Labs MLaaS platform repository, containing the web UI application and backend API
 
 ## Mission
 
