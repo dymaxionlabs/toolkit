@@ -29,15 +29,15 @@ We love transparency and hard fact evidence, and we are committed to the United 
 
 Participation in the Project through interaction with our code repositories is open to anyone so long as they abide by the terms of this Charter. Bug reports and pull requests are welcome on GitHub at the [issues page](https://github.com/dymaxionlabs/toolkit/issues). This Project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant code of conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
-Our governance model relies on a formal committer group that reviews and accepts pull requests, and can can grant committing privileges to new contributors. Current committer group members are: 
-* Damián Silvani (damian@dymaxionlabs.com)
+Our governance model relies on a formal committer group that reviews and accepts pull requests, and can grant committing privileges to new contributors. Current committer group members are:
+
 * Federico Bayle (federico@dymaxionlabs.com)
-* Xavier Petit de Meurville (xavier@dymaxionlabs.com)
+* Daniela Blanco (daniela@dymaxionlabs.com) 
 * María Roberta Devesa (ro.devesa@dymaxionlabs.com)
 * Milena Dotta (milena@dymaxionlabs.com)
+* Xavier Petit de Meurville (xavier@dymaxionlabs.com) 
+* Damián Silvani (damian@dymaxionlabs.com)
 * Aylén Sorribes (aylen@dymaxionlabs.com)
-* Daniela Blanco (daniela@dymaxionlabs.com)
-
 
 All inbound code contributions to the Project must be made under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) 
 All outbound code will be made available under the Project License.
