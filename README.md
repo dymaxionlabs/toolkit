@@ -31,13 +31,13 @@ Participation in the Project through interaction with our code repositories is o
 
 Our governance model relies on a formal committer group that reviews and accepts pull requests, and can grant committing privileges to new contributors. Current committer group members are:
 
-* Federico Bayle (federico@dymaxionlabs.com)
-* Daniela Blanco (daniela@dymaxionlabs.com) 
-* María Roberta Devesa (ro.devesa@dymaxionlabs.com)
-* Milena Dotta (milena@dymaxionlabs.com)
-* Xavier Petit de Meurville (xavier@dymaxionlabs.com) 
-* Damián Silvani (damian@dymaxionlabs.com)
-* Aylén Sorribes (aylen@dymaxionlabs.com)
+* [Federico Bayle](https://github.com/fedebayle)
+* [María Roberta Devesa](https://github.com/Ro-devesa)
+* [Xavier Petit de Meurville](https://github.com/nuxion)
+* [Damián Silvani](https://github.com/munshkr)
+* [Aylén Sorribes](https://github.com/aylensorribes)
+* Milena Dotta
+* Daniela Blanco
 
 All inbound code contributions to the Project must be made under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) 
 All outbound code will be made available under the Project License.
