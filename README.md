@@ -36,8 +36,6 @@ Our governance model relies on a formal committer group that reviews and accepts
 * [Xavier Petit de Meurville](https://github.com/nuxion)
 * [Damián Silvani](https://github.com/munshkr)
 * [Aylén Sorribes](https://github.com/aylensorribes)
-* Milena Dotta
-* Daniela Blanco
 
 All inbound code contributions to the Project must be made under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) 
 All outbound code will be made available under the Project License.
